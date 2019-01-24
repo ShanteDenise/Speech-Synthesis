@@ -36,6 +36,11 @@ h1 {
     font-family: "SedgwickAve Regular";
     text-shadow: 3px 3px 0 rgb(31, 39, 100);
   }
+  label {
+      font-size:2rem; 
+      color: rgb(204, 10, 91);
+  }
+
 
 .voiceinator {
     padding: 2rem;
