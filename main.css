@@ -87,3 +87,42 @@ textarea {
     margin-right: 2%;
   }
   
+  @media only screen and (max-width : 375px) {
+    .voiceinator {
+        width:100%;
+        margin:10px;
+    }
+    
+    }
+  @media only screen and (max-width: 768px){
+      .voiceinator{
+          width: 100%;
+          margin:10px;
+      }
+  }
+
+  @media only screen and (min-width: 600px) {
+    .voiceinator{
+        width: 60rem;
+        height: 80%;
+        margin:10px;
+    }
+    @media only screen and (min-width: 700px) {
+        .voiceinator{
+            margin: 0 auto;
+            width: 60rem;
+            height: 80%;
+
+        }
+
+  }
+
+  @media only screen and (min-width: 800px) {
+    .voiceinator{
+        width: 60rem;
+        height: 80%;
+        margin:0 auto;
+    }
+
+  }
+}
