@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "VoiceSynthesis"
+		},
+		{
+			"path": "/Users/shanteaustin/Downloads/sedgwick-ave"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VoiceSynthesis"
+	}
+}
